@@ -1,4 +1,4 @@
-module example.com/web-service-gin
+module example.com/gin-gonic
 
 go 1.16
 
